@@ -4,6 +4,8 @@
 
   "block.gemstonemod.alexandrite_block": "Block of Alexandrite",
   "block.gemstonemod.raw_alexandrite_block": "Block of Raw Alexandrite",
+  "block.gemstonemod.alexandrite_ore": "Alexandritre Ore",
+  "block.gemstonemod.alexandrite_deepslate_ore": "Alexandrite Deepslate Ore",
 
   "creativetab.gemstonemod.gem_items": "Gemstone Items",
   "creativetab.gemstonemod.gem_blocks": "Gemstone Blocks"

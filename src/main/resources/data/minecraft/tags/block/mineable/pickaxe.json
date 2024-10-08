@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "gemstonemod:alexandrite_block",
+    "gemstonemod:raw_alexandrite_block",
+    "gemstonemod:alexandrite_ore",
+    "gemstonemod:alexandrite_deepslate_ore"
+  ]
+}
