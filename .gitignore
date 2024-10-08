@@ -1,0 +1,11 @@
+# Ignore Gradle files
+.gradle/
+build/
+
+# Ignore IntelliJ IDEA files
+.idea/
+*.iml
+
+# Ignore logs and screenshots
+run/logs/
+run/screenshots/
