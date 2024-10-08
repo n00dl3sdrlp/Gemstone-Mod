@@ -1,0 +1,36 @@
+[33mcommit 7fb880d3372f334b4377a6c1c9e1f16afa97f7cc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 883a861 0b0e86b
+Author: Fenix Farias <fenixfarias12@gmail.com>
+Date:   Mon Oct 7 19:03:13 2024 -0700
+
+    Merge branch 'main' of https://github.com/n00dl3sdrlp/Gemstone-Mod
+
+[33mcommit 883a86185657f32c8b048180f50c2c28a5e54354[m
+Author: Fenix Farias <fenixfarias12@gmail.com>
+Date:   Mon Oct 7 18:15:30 2024 -0700
+
+    Updated main files
+
+[33mcommit 0b0e86bf16eea385525736ef5a8b1834d41300fd[m
+Author: n00dl3sdrlp <fenixfarias12@gmail.com>
+Date:   Mon Oct 7 18:07:05 2024 -0700
+
+    Initial commit
+
+[33mcommit 2ba42976db2b421567ad8bfea80623afb5abba5c[m
+Author: Fenix Farias <fenixfarias12@gmail.com>
+Date:   Mon Oct 7 17:57:03 2024 -0700
+
+    Add testfile.txt
+
+[33mcommit d2bb9b951093e3bcbb5245c16c26fa311195ddb9[m
+Author: Fenix Farias <fenixfarias12@gmail.com>
+Date:   Sun Oct 6 10:55:44 2024 -0700
+
+    Add original files for Gemstone Mod
+
+[33mcommit caf530053f34c068a1e27e492078c3bfcb30d616[m
+Author: n00dl3sdrlp <fenixfarias12@gmail.com>
+Date:   Sun Oct 6 09:49:36 2024 -0700
+
+    Initial commit
