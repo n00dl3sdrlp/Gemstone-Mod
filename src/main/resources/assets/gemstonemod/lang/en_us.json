@@ -1,0 +1,11 @@
+{
+  "item.gemstonemod.alexandrite": "Alexandrite Gem",
+  "item.gemstonemod.raw_alexandrite": "Raw Alexandrite",
+
+  "block.gemstonemod.alexandrite_block": "Block of Alexandrite",
+  "block.gemstonemod.raw_alexandrite_block": "Block of Raw Alexandrite",
+
+  "creativetab.gemstonemod.gem_items": "Gemstone Items",
+  "creativetab.gemstonemod.gem_blocks": "Gemstone Blocks"
+
+}
